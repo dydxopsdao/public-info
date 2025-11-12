@@ -1,5 +1,5 @@
-# public-info
-Public, DOS-related development information
+# DOS Public Information
+Public development information from dYdX Operations Services.
 
 # Signotifier message verification
 
